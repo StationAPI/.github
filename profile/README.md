@@ -1,5 +1,3 @@
-# Station
-
 <div align="center">
   <h1>Station</h1>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/G0bYdRv/i-Phone-13-mini-1.png" alt="i-Phone-13-mini-1" border="0"></a>
