@@ -3,13 +3,14 @@
 <a href="https://ibb.co/5K8k4P4"><img src="https://i.ibb.co/Sfncyzy/Twitter-header-1-2.png" alt="Twitter-header-1-2" border="0"></a>
 </div>
 
-<h3 align="center">A platform for accessing IoT data from all over the globe</h3>
+<h3 align="center">A platform for website discoverability</h3>
 
 ## Intro
-Station is a platform for accessing sensor data from IoT devices all over the world. Makers upload their sensor data, and consumers can use the API to access the data.
+Station is a platform for website discoverability. Users can look for new products and platforms using detailed filters, and website owners share their platform's website.
 
 ## How it Works
-- Anyone with an embedded device that collects sensor data such as temperature can upload it to Station via the API
-- Consumers are billed monthly based on the number of requests they make (the first 100 every month being free)
-- People who upload data get paid monthly based on how much their data is requested
+- Website owners upload their website, create a page for it, and add any relevant tags
+- Platforms are ranked based on community rating and interest
+- Owners can also bump their sites every (first 5 are free)
+- Users can look for websites that match their needs by browsing using filters
 
