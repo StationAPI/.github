@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Station</h1>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/G0bYdRv/i-Phone-13-mini-1.png" alt="i-Phone-13-mini-1" border="0"></a>
+<a href="https://ibb.co/5K8k4P4"><img src="https://i.ibb.co/Sfncyzy/Twitter-header-1-2.png" alt="Twitter-header-1-2" border="0"></a>
 </div>
 
 <h3 align="center">A platform for accessing IoT data from all over the globe</h3>
